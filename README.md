@@ -13,7 +13,11 @@ all of your booklet into your very own edition of your favorite text !
                  Scale to fit the page. An example setup for ARA&A:
                                         162% on 11*17 Borderless 
 
-Basic usage : Copy your PDF to the "robo-Librarian" folder and use your terminal and go to "robo-Librarian/code". 
+Basic usage : 
+
+  Download the full "robo-Librarian/" folder.
+  
+  Copy your PDF to the "robo-Librarian" folder and use your terminal and go to "robo-Librarian/code". 
               Then, execute robo-librarian.py and give it the path to your PDF.
               
             For Windows :  
