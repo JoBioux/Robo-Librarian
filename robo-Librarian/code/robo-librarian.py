@@ -24,7 +24,6 @@ The code enable via an argument to print in a right-to-left reading style if so 
 
 import sys
 import os
-import time
 import math
 import numpy as np
 from PyPDF2 import PdfWriter as Writer, PdfReader as Reader
