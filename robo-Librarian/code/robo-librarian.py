@@ -24,6 +24,7 @@ The code enable via an argument to print in a right-to-left reading style if so 
 
 import sys
 import os
+import time
 import math
 import numpy as np
 from PyPDF2 import PdfWriter as Writer, PdfReader as Reader
@@ -236,7 +237,8 @@ def run(fname, start = 1, end = None, bookletSize = 8, readingDirection = False)
     
     saveFinal(fname, finalDocument, bookletSize, readingDirection)
     
-
+    
+    
 if __name__ == "__main__":
 
     args = parse_arguments()
