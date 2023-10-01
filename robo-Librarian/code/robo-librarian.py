@@ -18,7 +18,7 @@ The code enable via an argument to print in a right-to-left reading style if so 
                  Remake : JoBioux, 1st October, 2023. Tested with the 362 pages long open archive 
                             "坊っちゃん bocchan", by Natsume Souseki, bookletSize = 8 and bookletSize = 3, 
                             with python 3.11.5 on Windows 10 
-                            contact : 
+                            contact : only through GitHub
 
 """
 
