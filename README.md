@@ -28,6 +28,11 @@ Basic usage : Copy your PDF to the "robo-Librarian" folder and use your terminal
 
   Please Type "python robo-librarian.py -h" for more informations.
 
+  Please clear regularly your tmp folder to save space using : 
+            
+            python clear.py
+  If you delete the "tmp" folder by accident just creat a new one, named strictly the same
+
 
     
 original code by ChongChong He, 19th November 2019 as 'booklet.py', url : https://github.com/chongchonghe/booklet-creator/blob/master/booklet.py
