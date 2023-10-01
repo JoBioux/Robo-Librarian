@@ -1,0 +1,8 @@
+All created tmps will go in this folder. Do not delete it. 
+
+To free space, please run from here 
+		Windows
+			python ..\code\clear.py
+
+		Unix
+			python ../code/clear.py
