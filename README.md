@@ -16,11 +16,11 @@ all of your booklet into your very own edition of your favorite text !
 Basic usage : Copy your PDF to the "robo-Librarian" folder and use your terminal and go to "robo-Librarian/code". 
               Then, execute robo-librarian.py and give it the path to your PDF.
               
-  For Windows :  
+            For Windows :  
                 cd C:\Users\MyUser\PathTo\robo-Librarian\code\
                 python robo-librarian.py ..\myPDF.pdf
-      
-  For Unix : 
+            
+            For Unix : 
                  cd pathTo/robo-Librarian/code/
                  python robo-librarian.py ../myPDF.pdf
 
