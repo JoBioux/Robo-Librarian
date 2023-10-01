@@ -38,6 +38,9 @@ Basic usage :
   If you delete the "tmp" folder by accident just creat a new one, named strictly the same
 
 
+  Numpy and PyPDF2 are required to run this program
+
+
     
 original code by ChongChong He, 19th November 2019 as 'booklet.py', url : https://github.com/chongchonghe/booklet-creator/blob/master/booklet.py
   
